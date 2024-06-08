@@ -4,7 +4,7 @@ const hour = document.querySelector(".hour");
 const minute = document.querySelector(".minutes");
 const seconds = document.querySelector(".seconds");
 
-const countDownDate = new Date("June 8, 2024 00:00:00");
+const countDownDate = new Date("July 30, 2024 00:00:00");
 
 const countDownTime = function () {
   const count = setInterval(() => {
