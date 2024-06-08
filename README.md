@@ -33,7 +33,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Vanilla JavaScript44
+- Vanilla JavaScript
 
 ## Author
 
