@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Oluwa-Laughter/launch-countdown-timer)
-- Live Site URL: [Add live site URL here](https://oluwa-laughter.github.io/launch-countdown-timer/)
+- Solution URL: [Solution](https://github.com/Oluwa-Laughter/launch-countdown-timer)
+- Live Site URL: [Live site](https://oluwa-laughter.github.io/launch-countdown-timer/)
 
 ### Built with
 
