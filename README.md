@@ -4,19 +4,10 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
 
 ## Table of contents
 
-- [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
-
-### The challenge
-
-Users should be able to:
-
-- See hover states for all interactive elements on the page
-- See a live countdown timer that ticks down every second (start the count at 14 days)
-- **Bonus**: When a number changes, make the card flip from the middle
 
 ### Screenshot
 
@@ -25,7 +16,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/Oluwa-Laughter/launch-countdown-timer)
-- Live Site URL: [Live site](https://oluwa-laughter.github.io/launch-countdown-timer/)
+- Live Site URL: [Live](https://oluwa-laughter.github.io/launch-countdown-timer/)
 
 ### Built with
 
@@ -39,4 +30,5 @@ Users should be able to:
 
 - Website - [Isaac Makinde](https://github.com/Oluwa-Laughter)
 - Frontend Mentor - [Oluwa-Laughter](https://www.frontendmentor.io/profile/Oluwa-Laughter)
-- Twitter - [@isaacmakinde\_](https://www.twitter.com/isaacmakinde_)
+- Twitter - [LAUGHTER](https://www.twitter.com/isaacmakinde_)
+- LinkedIn - [Isaac Makinde](https://www.linkedin.com/in/isaacmakinde/)
