@@ -24,7 +24,6 @@ body {
   font-family: "Red Hat Text", sans-serif;
   background: url(../images/bg-stars.svg);
   background-color: var(--verydarkblue);
-  position: relative;
 }
 
 h1 {
@@ -34,13 +33,11 @@ h1 {
 }
 
 .container {
-  margin: auto;
-  inset: 0;
-  position: fixed;
-  max-width: 50rem;
-  max-height: fit-content;
+  max-width: 60rem;
+  margin: 20rem auto;
   display: grid;
-  gap: 3.6rem;
+  align-items: center;
+  gap: 3.2rem;
 }
 
 .counter {
